@@ -1,30 +1,57 @@
-# MyReelGen AI – Android App
+# MyReelGen 🎬🤖  
+AI-Powered Reel & Short-Form Content Generator
 
-MyReelGen AI is an Android WebView application designed to provide seamless mobile access to the MyReelGen online AI platform. The app enables users to generate **AI videos, images, and creative assets** using cutting-edge models like **Sora 2**, **Hailuo**, and more.
+MyReelGen is an AI-driven platform that helps creators and businesses generate engaging **reels, short videos, and content ideas** automatically using AI.
 
-## 📱 Features
-- AI Text-to-Video and Image-to-Video generation  
-- AI image creation  
-- AI automation tools (including watermark remover)  
-- User account dashboard  
-- Credits, billing & wallet system  
-- Library for saved videos & images  
-- Fast WebView + pull-to-refresh  
-- Download support using DownloadManager  
+🌐 Website: https://myreelgen.com/
 
-## 🛠️ Tech Stack
-- Android (Java)
-- WebView
-- SwipeRefreshLayout
-- Custom WebViewClient
-- DownloadManager API
-- Network Connectivity Checker
+---
 
-## 📦 APK Installation
-1. Download the APK from Releases  
-2. Enable “Install unknown apps”  
-3. Install and launch the app
+## 🚀 What MyReelGen Does
 
-## 🧾 License
-This app is a WebView wrapper for MyReelGen’s platform. All platform rights belong to MyReelGen/Eval Info.
+MyReelGen is built to simplify content creation for:
+- Creators
+- Marketers
+- Agencies
+- Businesses
 
+### ✨ Key Features
+- AI-generated reel ideas
+- Short-form content automation
+- Captions & hooks generation
+- Content planning assistance
+- Creator-focused workflows
+
+---
+
+## 🧠 Why MyReelGen?
+Creating short-form content consistently is hard.  
+MyReelGen helps users:
+- Save time
+- Stay consistent
+- Generate ideas faster
+- Scale content creation using AI
+
+---
+
+## 🛠 Tech Stack
+- AI & LLMs
+- JavaScript
+- Automation workflows
+- Content generation systems
+
+---
+
+## 👤 Founder
+**Muhammad Nouman**  
+Founder of **MyReelGen.com** & **Eval Info**
+
+---
+
+## 🔗 Related
+- Eval Info – AI Digital Marketing & Automation  
+  https://evalinfo.com/
+
+---
+
+⭐ Follow the project for updates and improvements.
